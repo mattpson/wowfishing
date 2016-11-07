@@ -1,0 +1,2 @@
+# wowfishing
+WoW Fishing database
